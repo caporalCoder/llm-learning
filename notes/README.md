@@ -1,4 +1,4 @@
-# llm-learning# Notes
+# Notes
 
 Study notes, one file per topic. Copy `_TEMPLATE.md` for each. Short, in my own words.
 
